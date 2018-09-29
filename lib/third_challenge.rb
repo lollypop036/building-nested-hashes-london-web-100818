@@ -22,21 +22,21 @@ def third_challenge
       },
         :name =>
         :age =>
-        :attitude =>]
-   }, 
+        :attitude =>
+   }] 
    :capulet => {
       :patriarch => {
         :name => {},
         :age => {}
         },
-      :matriarch => {}
-        :name => {"Lady Capulet",}
-        :age => "51",
+      :matriarch => 
+        :name => 
+        :age => 
         },
       :heroine => {
-         :name => "Juliet",
-        :age => "15",
-        :status => "alive"
+         :name =>,
+        :age => 
+        :status => 
         },
       :heroine_friends => []
    }
