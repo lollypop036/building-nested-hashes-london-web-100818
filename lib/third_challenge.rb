@@ -4,27 +4,8 @@ def third_challenge
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
-      
-  
-        },
-      :matriarch => {
-       :name => 
-        :age => 
-        },
-      :hero => {
-        :name => 
-        :age => 
-        :status => 
-        },
-      :hero_friends => [{
-        :name => 
-        :age =>
-        :attitude =>
-      },
-        :name =>
-        :age =>
-        :attitude =>
-   }] 
+      :hero_friends =>[]
+   },
    :capulet => {
       :patriarch => {
         :name => {},
